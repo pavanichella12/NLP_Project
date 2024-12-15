@@ -169,17 +169,10 @@ job-description-resume-matcher/
 - Integration with **Large Language Models** (LLMs) for deeper semantic analysis.
 - Support for additional file formats.
 - Enhanced visualizations with **interactive dashboards**.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## Contributers
 
--Pavani chella
--Yasaswitha Gaddam
+- Pavani chella
+- Yasaswitha Gaddam
 
